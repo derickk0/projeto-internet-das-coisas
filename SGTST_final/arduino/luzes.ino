@@ -6,7 +6,7 @@ Semestre: 2025.1
 */
 
 /*
-Cada LED representa as luzess de um setor:
+Cada LED representa as luzes de um setor:
 	Laranja - Oficina
     Azul - Galpão
     Amarelo - Escritório
